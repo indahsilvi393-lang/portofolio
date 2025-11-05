@@ -12,7 +12,7 @@ Website ini menampilkan profil, pengalaman, dan project data analysis saya.
 
 Berikut tampilan dari website saya:
 
-![Portfolio Preview](portfolio.png)
+![Portfolio Preview](portofolio.png)
 
 ---
 
