@@ -10,8 +10,6 @@ Website ini menampilkan profil, pengalaman, dan project data analysis saya.
 
 ## 🖼️ Tampilan Portfolio
 
-Berikut tampilan dari website saya:
-
 ![Portfolio Preview](portofolio.png)
 
 ---
@@ -37,7 +35,6 @@ Lulusan **Sains Data - Universitas Teknologi Yogyakarta**, berpengalaman dalam:
 ## 🧰 Teknologi yang Digunakan
 - HTML, CSS, JavaScript (untuk website ini)
 - GitHub Pages untuk hosting
-- Canva dan Figma untuk desain elemen visual
 
 ---
 
